@@ -350,8 +350,8 @@ if __name__ == "__main__":
     burst_time = [8, 6, 1, 9]
     priorities = [2, 1, 3, 4]
     priority_non_preemptive(processes, burst_time, priorities)
-OUTPUT:
+# OUTPUT:
 image
 
-RESULT:
+# RESULT:
 Priority Non-preemptive scheduling is implemented successfully.
